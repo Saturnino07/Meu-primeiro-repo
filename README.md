@@ -1,2 +1,3 @@
-# Meu-primeiro-repo.
-Meu primeiro repositório
+#Meu primeiro repositório
+
+Este é o repositório da minha primeira aula de GitHub
